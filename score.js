@@ -59,7 +59,6 @@ for (let i = 1; i <= 50; i++) {
   }
 }
 
-// Task 4: Count from 1 to 20 and check Even / Odd
 for (let i = 1; i <= 20; i++) {
   if (i % 2 === 0) {
     console.log(i + " - Even");
